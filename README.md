@@ -31,10 +31,10 @@ Todo5 is a CRUD-style Django application that helps manage daily tasks. Each tas
 
 ## 📸 Screenshots
 
-| Home / Task List | Add Task |
-|---|---|
-| ![Home Page](<img width="1907" height="321" alt="Image" src="https://github.com/user-attachments/assets/43eab7e0-fb53-439e-a5f1-88eb84dbed7e" />
-) | ![Add Task](<img width="1912" height="1067" alt="Image" src="https://github.com/user-attachments/assets/f3400af4-ee1d-4679-908c-13f415332f64" />) |
+ Home / Task List 
+(<img width="1907" height="321" alt="Image" src="https://github.com/user-attachments/assets/43eab7e0-fb53-439e-a5f1-88eb84dbed7e" />)
+Add Task
+(<img width="1907" height="321" alt="Image" src="https://github.com/user-attachments/assets/43eab7e0-fb53-439e-a5f1-88eb84dbed7e" />) 
 
 ## 🛠️ Tech Stack
 
