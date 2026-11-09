@@ -12,7 +12,7 @@ This is **Capstone Project 4**, built as part of my **Full Stack Python Internsh
 |---|---|
 | 🌐 **Live Demo** | https://sandyreddy377.pythonanywhere.com/ |
 | 💻 **GitHub Repo** | https://github.com/reddyramasandhya-droid/todo5 |
-| 🖥️ **Local Server** | http://127.0.0.1:8004/ |
+
 
 ---
 
@@ -107,10 +107,8 @@ python manage.py createsuperuser
 
 ### 6. Run the development server
 ```bash
-python manage.py runserver 8004
+python manage.py runserver 
 ```
-
-Open **http://127.0.0.1:8004/** in your browser. 🎉
 
 ## ☁️ Deployment (PythonAnywhere)
 
